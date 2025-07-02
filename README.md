@@ -11,3 +11,12 @@ Este repositório contém os exercícios realizados durante o curso de React no 
 ## ▶️ Como correr o projeto
 
 1. Clona este repositório:
+git clone https://github.com/ARitaP95/react-coursera-exercicios.git
+
+2. Instala as dependências:
+npm install
+
+3. Inicia a aplicação:
+npm start
+---
+Feito com ❤️ por Ana Rita Pereira
